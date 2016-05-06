@@ -1,0 +1,41 @@
+.wrapper-reviews {
+ 
+    margin: 0 auto;
+    width: 1200px;
+    background-color: #e0e0e0;
+}
+
+
+.wrapper-reviews h1 {
+   text-align: center;
+}
+
+.kartinka {
+    text-align: center;
+}
+
+
+.g-recaptcha {
+    
+    margin-left: 35%;
+}
+
+.reviews_text:nth-child(2n) {
+    background-color: #d0d0d0;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.form {
+    text-align: center;
+}
+
+.kartinka_error {
+    font-size: 150%;
+    color: red;
+}
+
+.kartinka_ok {
+    font-size: 150%;
+    color: green;
+}
