@@ -1,5 +1,7 @@
 <?php
 
-echo 'Git Hub it\'s working' ;
+echo 'Git Hub it\'s ' ;
+
+echo 'Second commit'
 
 ?>
